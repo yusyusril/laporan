@@ -20,7 +20,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active"  href="/home">Home</a>
+          <a class="nav-link active"  href="/">Home</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -45,7 +45,7 @@
   <div class="hero-text">
     <h1 style="font-size:50px">Selamat Datang</h1>
     <p>Sistem Pelaporan Kinerja Pegawai Non-ASN</p>
-    <button>Login</button>
+    
   </div>
 </div>
 
