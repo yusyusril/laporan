@@ -43,12 +43,17 @@
 <div class="container">
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-size:50px">Selamat Datang</h1>
-    <p>Sistem Pelaporan Kinerja Pegawai Non-ASN</p>
-    <button>Login</button>
+    <h1 style="font-size:50px">Visi & Misi</h1>
+    <h1 style="font-size:35px">Visi</h1>
+    <p>"Terwujudnya Masyarakat Kabupaten Bandung Yang Bangkit, Edukatif, Dinamis, Agamis dan Sejahtera"</p>
+    <h1 style="font-size:35px">Misi</h1>
+    <p>Membangkitkan daya saing daerah.</p>
+    <p>Menyediakan layanan pendidikan dan kesehatan yang berkualitas dan merata</p>
+    <p>Mengoptimalkan pembangunan daerah berbasis partisipasi masyarakat yang menjunjung tinggi kreatiftas dalam bingkai kearifan lokal dan berwawasan lingkungan.</p>
+    <p>Mengoptimalkan tata kelola pemerintahan melalui birokrasi yang profesional, dan tata kehidupan masyarakat yang berlandaskan nilai-nilai keagamaan.</p>
+    <p>Meningkatkan kesejahteraan masyarakat dengan prinsip keadilan dan keberpihakan pad kelompok masyarakat rendah.</p>
   </div>
 </div>
-
 </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>

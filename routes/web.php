@@ -41,3 +41,20 @@ Route::get('actionlogout', [LoginController::class, 'actionlogout'])->name('acti
 
 Route::get('register', [RegisterController::class, 'register'])->name('register');
 Route::post('register/action', [RegisterController::class, 'actionregister'])->name('actionregister');
+
+
+
+Route::get('/', function () {
+    return view('home');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
+Route::get('/visi', function () {
+    return view('visi');
+});
+Route::get('/peraturan', function () {
+    return view('peraturan');
+});
+
